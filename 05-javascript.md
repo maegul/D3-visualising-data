@@ -33,8 +33,8 @@ We need to introduce the script to the HTML element, using these basic steps:
 The ID is an attribute we can set for the image:
 
 ~~~{.html}
-<div class='image'>
-	<img id="cat" src="img/cat.jpg">
+<div>
+	<img class="image" id="cat" src="img/cat.jpg">
 </div>
 ~~~
 
